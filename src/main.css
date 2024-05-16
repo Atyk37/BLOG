@@ -1,0 +1,30 @@
+/* .swiper {
+    width: 600px;
+    height: 300px;
+  } */
+
+/* .swiper-button-prev , .swiper-button-next{
+  width: 60px;
+  height: 60px;
+} */
+
+/* @media screen and (max-width: 768px) {
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    font-size: 30px;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    top: 80%;
+  }
+
+  .swiper-button-prev {
+    left: auto;
+    right: 100px;
+  }
+
+  .swiper-button-next {
+    right: 20px;
+  }
+} */
